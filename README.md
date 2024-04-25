@@ -1,5 +1,5 @@
-- 💻 Professional Programmer
-- Part Time Video Editor
+- 💻  Programmer
+-  
 - Persuing B.Tech in C.Se.(cyber security)
 - 
 
