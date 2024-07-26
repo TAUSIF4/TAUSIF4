@@ -1,6 +1,6 @@
 - 💻  Programmer
 -  
-- Persuing B.Tech in C.Se.(cyber security)
+- Persuing B.Tech in C.Se.(Information security)
 - 
 
 <!---
